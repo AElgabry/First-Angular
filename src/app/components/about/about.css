@@ -1,0 +1,14 @@
+section
+{
+    overflow-x: hidden;
+    background-color: #1abc9c;
+}
+.line
+{
+    text-decoration: line-through;
+    text-decoration-thickness: 3px;
+}
+.line p
+{
+    color: #1abc9c;
+}

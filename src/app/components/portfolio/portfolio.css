@@ -1,0 +1,28 @@
+.line
+{
+    text-decoration: line-through;
+    text-decoration-thickness: 3px;
+}
+.line p
+{
+    color: transparent;
+}
+section
+{
+    padding-top: 100px;
+    overflow-x: hidden;
+}
+.col
+{
+    padding: 0;
+}
+.space
+{
+    background-color: #1abc9c;
+    opacity: 0;
+    transition: ease 0.8s;
+}
+.space:hover
+{
+    opacity: 0.8;
+}

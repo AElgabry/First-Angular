@@ -1,0 +1,18 @@
+section
+{
+    padding-top: 200px;
+    background-color: #1abc9c;
+}
+.line
+{
+    text-decoration: line-through;
+    text-decoration-thickness: 3px;
+}
+.line p
+{
+    color: transparent;
+}
+img
+{
+    width: 15%;
+}
