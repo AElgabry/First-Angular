@@ -18,11 +18,13 @@ section
 }
 .space
 {
-    background-color: #1abc9c;
+    background-color: rgba(26 , 188 , 156 ,0.5);
     opacity: 0;
     transition: ease 0.8s;
 }
 .space:hover
 {
-    opacity: 0.8;
+    opacity: 1;
+    background-color: rgba(26 , 188 , 156 ,0.8);
+
 }
